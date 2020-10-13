@@ -1,2 +1,2 @@
 # Fleeter-Management-System
-FYP Project la konon lol
+Final Year Project 2018 for Diploma in Computer Science in Internet Computing
